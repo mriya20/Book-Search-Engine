@@ -2,7 +2,7 @@
   # MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # Description
-  A book search engine- using Google.com; refarctored using GraphQL v RestfulApi
+ Google Books API search engine built with GraphQL API and Apollo Server.
 
   ## Table of Contents
   * [Installation](#installation)
